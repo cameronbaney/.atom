@@ -1,0 +1,24 @@
+'editor':
+  'fontSize': 12
+  'fontFamily': 'SourceCodePro-Regular'
+'core':
+  'themes': [
+    'spacegray-eighties-ui'
+    'tomorrow-night-eighties'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'disabledPackages': [
+    'wrap-guide'
+  ]
+'exception-reporting':
+  'userId': '7cd97cae-2d37-8bca-a229-65ac6319fe99'
+'release-notes':
+  'viewedVersion': '0.73.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '7159f0275754e978c51c3c11d2854162b26cf1d9'
